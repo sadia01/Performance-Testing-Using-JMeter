@@ -2,4 +2,4 @@
 *.jmx linguist-language=XML
 *.html linguist-detectable=false
 *.css linguist-detectable=false
-*.js linguist-detectable=falswe
+*.js linguist-detectable=false
